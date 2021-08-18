@@ -1,4 +1,4 @@
-<h1>Olá seja bem vindo eu sou Carlos Henrique estudante de desenvolvimento web :ok_hand:</h1>
+<h1>**Olá seja bem vindo eu sou Carlos Henrique estudante de desenvolvimento web** :ok_hand:</h1>
 
 <a href="https://www.linkedin.com/in/carlos-scalambrine" rel="some text"><img width="30px" src="https://ideaconsultoriaeassessoria.files.wordpress.com/2011/11/linkedin1.png" alt="" /></a>
 
