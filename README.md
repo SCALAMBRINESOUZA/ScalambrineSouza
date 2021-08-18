@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scalambrinesouza&show_icons=true&theme=merko)
 
-![Alt Text](https://gfycat.com/glossypowerfulamericanmarten.gif)
+![Alt Text](https://images.app.goo.gl/tYqbrSq9espFR39r8)
 
 
 
