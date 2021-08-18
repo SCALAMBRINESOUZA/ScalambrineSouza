@@ -1,2 +1,1 @@
-Olá! Eu sou Carlos henrique wave
-seedling Hoje estudo na Trybe - Escola de desenvolvimento web.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scalambrinesouza)](https://github.com/anuraghazra/github-readme-stats)
