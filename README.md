@@ -1,4 +1,5 @@
 <h1>Olá seja bem vindo eu sou Carlos Henrique estudante de desenvolvimento web :ok_hand:</h1>
+<img src="https://ideaconsultoriaeassessoria.files.wordpress.com/2011/11/linkedin1.png"</img>
 
 <h2>Conhecimentos Adquiridos:</h2>
 <p>Javascript</p>
