@@ -3,10 +3,10 @@
 <a href="https://www.linkedin.com/in/carlos-scalambrine" rel="some text"><img width="30px" src="https://ideaconsultoriaeassessoria.files.wordpress.com/2011/11/linkedin1.png" alt="" /></a>
 
 <h2>Conhecimentos Adquiridos:</h2>
-<p>Javascript</p> 
-<p>HTML</p> 
-<p>Css</p> 
-<p>React</p> 
+<b><h3>Javascript</h3></b> <p> Dom e seletores, ecmascript(ES6), higher order functions</p>
+<b><h3>HTML</h3></b> 
+<b><h3>Css</h3></b> 
+<b><h3>React</h3></b> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scalambrinesouza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
