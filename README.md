@@ -12,7 +12,7 @@
 <b><h3>HTML</h3></b>
 <ul>
   <li>Estruturas de página</li>
-  <li>Seketores e Posicionamento</li>
+  <li>Seletores e Posicionamento</li>
   <li>HTML Semântico</li>
 </ul>
 <b><h3>Css</h3></b>
