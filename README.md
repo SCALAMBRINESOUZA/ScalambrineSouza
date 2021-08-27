@@ -1,7 +1,7 @@
 <h1>Olá seja bem vindo eu sou Carlos Henrique estudante de desenvolvimento web em constante aprendizado :ok_hand:  <a href="https://www.linkedin.com/in/carlos-scalambrine" rel="some text"><img width="30px" src="https://ideaconsultoriaeassessoria.files.wordpress.com/2011/11/linkedin1.png" alt="" /></a>
 </h1>
 
-<p align='center'><img width=400 src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"]</p>
+<p align='center'><img width=900 height=600 src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"]</p>
 
 <h2>Conhecimentos Adquiridos:</h2>
 <b><h3>Javascript</h3></b>
